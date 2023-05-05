@@ -27,7 +27,7 @@ Just My Socks是<strong>搬瓦工官方</strong>出品的Shadowsocks/V2ray代理
 <strong>哪些人适合用Just My Socks？</strong>如果你只是为了翻墙看看YouTube、刷刷ins，使用ChatGPT或者谷歌，那么你完全不需要折腾VPS，自建ss，Just My Socks可以非常方便的达到这些需求。
 </p>
 <h2 id="user-content-just2"><span id="just_my_socks-2">二、Just My Socks购买</span></h2>
-<p class="keepp">目前，Just My Socks一共有3种方案：</p>
+<p class="keepp">目前，Just My Socks提供以下方案：</p>
 <table id="tablepress-1">
 <thead>
 <tr>
@@ -40,30 +40,115 @@ Just My Socks是<strong>搬瓦工官方</strong>出品的Shadowsocks/V2ray代理
 </tr>
 </thead>
 <tbody>
+
 <tr>
-<td>Just My Socks 500</td>
-<td>2.5 GB</td>
+<td>洛杉矶线路 500</td>
+<td>2.5 G</td>
 <td>500 GB / 月</td>
 <td>$5.88 / 月</td>
 <td>最多5个设备同时在线</td>
 <td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=26082&pid=1&language=chinese">立即购买</a></td>
 </tr>
+
 <tr>
-<td>Just My Socks 1000</td>
-<td>5 GB</td>
+<td>洛杉矶线路 1000</td>
+<td>5 G</td>
 <td>1TB / 月</td>
 <td>$9.88 / 月</td>
 <td>不限制设备数量</td>
 <td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=26082&pid=2&language=chinese">立即购买</a></td>
 </tr>
+
 <tr>
-<td>Just My Socks 5000</td>
-<td>5 GB</td>
+<td>洛杉矶线路 5000</td>
+<td>5 G</td>
 <td>5TB / 月</td>
 <td>$48.99 / 月</td>
 <td>不限制设备数量</td>
 <td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=26082&pid=3&language=chinese">立即购买</a></td>
 </tr>
+
+<tr>
+<td>英国伦敦线路 500</td>
+<td>2.5 G</td>
+<td>500 GB / 月</td>
+<td>$6.80 / 月</td>
+<td>最多5个设备同时在线</td>
+<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=26082&pid=12&language=chinese">立即购买</a></td>
+</tr>
+
+<tr>
+<td>英国伦敦线路 1000</td>
+<td>5 G</td>
+<td>1TB / 月</td>
+<td>$11.29 / 月</td>
+<td>不限制设备数量</td>
+<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=26082&pid=14&language=chinese">立即购买</a></td>
+</tr>
+
+<tr>
+<td>香港CMI+NTT方案 500</td>
+<td>2.5 G</td>
+<td>500 GB / 月</td>
+<td>$8.99 / 月</td>
+<td>最多5个设备同时在线</td>
+<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=26082&pid=13&language=chinese">立即购买</a></td>
+</tr>
+
+<tr>
+<td>日本东京线路 100</td>
+<td>100M</td>
+<td>100 GB / 月</td>
+<td>$29.99 / 月</td>
+<td>最多3个设备同时在线</td>
+<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=26082&pid=5&language=chinese">立即购买</a></td>
+</tr>
+
+<tr>
+<td>日本东京线路 500</td>
+<td>200M</td>
+<td>500 GB / 月</td>
+<td>$135.99 / 月</td>
+<td>最多5个设备同时在线</td>
+<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=26082&pid=6&language=chinese">立即购买</a></td>
+</tr>
+
+<tr>
+<td>香港线路 100</td>
+<td>100M</td>
+<td>100 GB / 月</td>
+<td>$34.99 / 月</td>
+<td>最多3个设备同时在线</td>
+<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=26082&pid=7&language=chinese">立即购买</a></td>
+</tr>
+
+<tr>
+<td>香港线路 500</td>
+<td>500M</td>
+<td>500 GB / 月</td>
+<td>$149.99 / 月</td>
+<td>最多5个设备同时在线</td>
+<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=26082&pid=8&language=chinese">立即购买</a></td>
+</tr>
+
+<tr>
+<td>香港线路 1000</td>
+<td>1 G</td>
+<td>1000 GB / 月</td>
+<td>$279.99 / 月</td>
+<td>不限制设备数量</td>
+<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=26082&pid=11&language=chinese">立即购买</a></td>
+</tr>
+
+<tr>
+<td>香港 IPLC 线路 100</td>
+<td>100M</td>
+<td>100 GB / 月</td>
+<td>$15.00 / 月</td>
+<td>最多3个设备同时在线(** 只适用 OPENVPN **)</td>
+<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=26082&pid=17&language=chinese">立即购买</a></td>
+</tr>
+
 </tbody>
 </table>
 <p class="keepp">
