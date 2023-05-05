@@ -47,7 +47,7 @@ Just My Socks是<strong>搬瓦工官方</strong>出品的Shadowsocks/V2ray代理
 <td>500 GB / 月</td>
 <td>$5.88 / 月</td>
 <td>最多5个设备同时在线</td>
-<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=26082&pid=1&language=chinese">立即购买</a></td>
+<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=26082&pid=2&language=chinese">立即购买</a></td>
 </tr>
 
 <tr>
@@ -56,7 +56,7 @@ Just My Socks是<strong>搬瓦工官方</strong>出品的Shadowsocks/V2ray代理
 <td>1TB / 月</td>
 <td>$9.88 / 月</td>
 <td>不限制设备数量</td>
-<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=26082&pid=2&language=chinese">立即购买</a></td>
+<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=26082&pid=3&language=chinese">立即购买</a></td>
 </tr>
 
 <tr>
@@ -65,7 +65,7 @@ Just My Socks是<strong>搬瓦工官方</strong>出品的Shadowsocks/V2ray代理
 <td>5TB / 月</td>
 <td>$48.99 / 月</td>
 <td>不限制设备数量</td>
-<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=26082&pid=3&language=chinese">立即购买</a></td>
+<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=26082&pid=4&language=chinese">立即购买</a></td>
 </tr>
 
 <tr>
