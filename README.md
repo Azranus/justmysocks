@@ -26,6 +26,9 @@ Just My Socks是<strong>搬瓦工官方</strong>出品的Shadowsocks/V2ray代理
 <p class="keepp">
 <strong>哪些人适合用Just My Socks？</strong>如果你只是为了翻墙看看YouTube、刷刷ins，使用ChatGPT或者谷歌，那么你完全不需要折腾VPS，自建ss，Just My Socks可以非常方便的达到这些需求。
 </p>
+<p class="keepp">
+<strong>Just My Socks 是否支持ChatGPT访问？</strong>目前JMS已经可以支持ChatGPT访问了，另外官方也经常对ChatGPT访问做优化。<a href="https://justmysocks3.net/members/knowledgebase.php?action=displayarticle&id=15&language=chinese">详情访问</a>
+</p>
 <h2 id="user-content-just2"><span id="just_my_socks-2">二、Just My Socks购买</span></h2>
 <p class="keepp">目前，Just My Socks提供以下方案：</p>
 <table id="tablepress-1">
