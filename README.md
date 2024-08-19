@@ -1,4 +1,4 @@
-<h1>Just My Socks：搬瓦工官方翻墙服务，多条线路，IP不怕被墙</h1>
+<h1>Just My Socks：搬瓦工官方2024最新翻墙服务，多条线路，IP不怕被墙</h1>
 <h2>力荐！Just My Socks - 非常靠谱稳定的shadowsocks/V2ray代理服务！</h2>
 <h2>可以用于ChatGPT访问使用！</h2>
 <h2>文章目录</h2>
@@ -220,6 +220,6 @@ Freedom服务器可以提供更多的数据传输，具体取决于当前的乘�
 <img style="max-width:100%" src="https://rawcdn.githack.com/killgcd/justmysocks/1b37c68c634059695a5ceb046563d13a84766b23/images/dcen.jpg" alt="SS client download，若图片无法显示请点击查看" />
 <p class="keepp"><strong>注意：如果购买后试用不满意，可申请退款：</strong><a href="jmstk.md"  rel="nofollow">Just My Socks 怎么退款（退款条件）</a></p>
 <p class="keepp"><strong>反馈交流：</strong><a href="https://github.com/Azranus/justmysocks/issues"  rel="nofollow">如果有任何问题，欢迎大家交流！</a></p>
-<p class="keepp"><strong>更多内容可以访问</strong><a href="https://justmysockss3.net/"  rel="nofollow">JustMySocks中文站</a></p>
+<p class="keepp"><strong>更多内容可以访问</strong><a href="https://justmysockss3.net/">JustMySocks中文站</a></p>
 <p class="keepp"><strong>免责声明：</strong>我们推荐的任何产品和服务已努力确保可靠持久，但我们不为此承担任何责任。本库一切资源仅用作交流学习，请勿用作商业或违法行为！如造成任何后果，本库概不负责！</p>
 
