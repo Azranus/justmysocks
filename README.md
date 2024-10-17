@@ -1,3 +1,6 @@
+<head>  
+  <meta name="description" content="探索 Just My Socks 2024代理教程，附带优惠码🎫，轻松科学上网，还能支持 ChatGPT。保持连接，简单方便！">  
+</head>
 <h1>🔥Just My Socks：搬瓦工官方2024代理服务，多条线路，特供优惠码🔥</h1>
 <h2>力荐！Just My Socks - 非常靠谱稳定的shadowsocks/V2ray代理服务！</h2>
 <h2>可以用于ChatGPT访问使用！</h2>
