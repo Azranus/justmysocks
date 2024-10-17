@@ -1,4 +1,4 @@
-<h1>Just My Socks：搬瓦工官方2024最新翻墙服务，多条线路，IP不怕被墙</h1>
+<h1>🔥Just My Socks：搬瓦工官方2024代理服务，多条线路，特供优惠码🔥</h1>
 <h2>力荐！Just My Socks - 非常靠谱稳定的shadowsocks/V2ray代理服务！</h2>
 <h2>可以用于ChatGPT访问使用！</h2>
 <h2>文章目录</h2>
