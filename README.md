@@ -1,6 +1,29 @@
 <h1>🔥Just My Socks：搬瓦工官方2024代理服务，多条线路，特供优惠码🔥</h1>
 <h2>力荐！Just My Socks - 非常靠谱稳定的shadowsocks/V2ray代理服务！</h2>
 <h2>可以用于ChatGPT访问使用！</h2>
+<section>  
+  <h2>超多线路可供选择</h2>  
+  <article>  
+    <h3>洛杉矶线路</h3>  
+    <ul>  
+      <li><strong>LA500</strong> - 500GB/月| 2.5 Gbps | 5 台设备</li>  
+      <li><strong>LA1000</strong> - 1TB/月| 5 Gbps |  ∞ 设备</li>  
+    </ul>  
+  </article>  
+  <article>  
+    <h3>英国伦敦线路</h3>  
+    <ul>  
+      <li><strong>London500</strong> - 500GB/月| 2.5 Gbps | 5 台设备</li>  
+      <li><strong>London1000</strong> - 1TB/月| 5 Gbps |  ∞ 设备</li>  
+    </ul>  
+  </article>  
+  <article>  
+    <h3>香港<span>CMI+NTT</span>线路</h3>  
+    <ul>  
+      <li><strong>HK500</strong> - 500GB/月| 2.5 Gbps | 5 台设备</li>  
+    </ul>  
+  </article>  
+</section> 
 <h2>文章目录</h2>
 <ol id="user-content-content-index-contents">
  	<li><a href="#user-content-just1">Just My Socks介绍</a></li>
