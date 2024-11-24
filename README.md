@@ -191,18 +191,18 @@ Just My Socks是<strong>搬瓦工官方</strong>出品的Shadowsocks/V2ray代理
 Just My Socks 官网：<a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=26082&language=chinese">Just My Socks 官网</a>
 </p>
 
-<a href="./images/jms-1.png" target="_blank" rel="noopener noreferrer"><img style="max-width:100%" src="./images/jms-1.png" alt="Just My Socks 购买教程，若图片无法显示请点击查看" /></a>
+<a href="./images/jms-1.png" target="_blank" rel="noopener noreferrer"><img style="max-width:100%" src="./images/jms-1.png" alt="Just My Socks 购买教程" /></a>
 <h2 id="user-content-just3"><span id="just_my_socks-3">三、Just My Socks优惠码</span></h2>
 <p class="keepp">
 在购买Just My Socks时，我们可以使用Just My Socks优惠码：<strong>JMS9272283</strong>获取5.2%循环优惠，输入优惠码后点击Validate Code即可使用优惠码，点击Checkout付款：
 <br class="keepp">
-<a href="./images/jms-2.png" target="_blank" rel="noopener noreferrer"><img style="max-width:100%" src="./images/jms-2.png" alt="Just My Socks优惠码，若图片无法显示请点击查看" /></a>
+<a href="./images/jms-2.png" target="_blank" rel="noopener noreferrer"><img style="max-width:100%" src="./images/jms-2.png" alt="Just My Socks优惠码" /></a>
 </p>
 <h2 id="user-content-just4"><span id="just_my_socks-4">四、Just My Socks注册</span></h2>
 <p class="keepp">
 这里需要填写你Just My Socks账号的信息：<strong>不要挂代理注册，如实填写</strong>，否则可能被认为欺诈，其中省份直接写拼音即可（例如Shandong），选择支付方式为Paypal（Paypal更安全）或 Alipay（支付宝），勾选同意服务条款后，点击Complete Order完成订单：
 <br class="keepp">
-<a href="./images/jms-3.png" target="_blank" rel="noopener noreferrer"><img style="max-width:100%" src="./images/jms-3.png" alt="Just My Socks 注册信息，若图片无法显示请点击查看" /></a>
+<a href="./images/jms-3.png" target="_blank" rel="noopener noreferrer"><img style="max-width:100%" src="./images/jms-3.png" alt="Just My Socks 注册信息" /></a>
 <br class="keepp">
 用支付宝付款完成后，你的Just My Socks服务就购买完成了。
 </p>
@@ -210,16 +210,16 @@ Just My Socks 官网：<a rel="nofollow" href="https://justmysocks3.net/members/
 <p class="keepp">
 完成Just My Socks购买后，登陆<a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=26082&language=chinese">Just My Socks 官网</a>，选择Services->My Services，就可以看到你刚才买的服务了，点击这个服务查看详情：
 <br class="keepp">
-<a href="./images/jms-4.png" target="_blank" rel="noopener noreferrer"><img style="max-width:100%" src="./images/jms-4.png" alt="Just My Socks 我的服务，若图片无法显示请点击查看" /></a>
+<a href="./images/jms-4.png" target="_blank" rel="noopener noreferrer"><img style="max-width:100%" src="./images/jms-4.png" alt="Just My Socks 我的服务" /></a>
 </p>
 <p class="keepp">
 这里就可以看到Shadowsocks/V2ray详情了，包括加密方式，端口，密码和IP（有5个节点，域名形式发放）等等：
 <br class="keepp">
-<a href="./images/jms-5.png" target="_blank" rel="noopener noreferrer"><img style="max-width:100%" src="./images/jms-5.png" alt="Just My Socks shadowsocks详情，若图片无法显示请点击查看" /></a>
+<a href="./images/jms-5.png" target="_blank" rel="noopener noreferrer"><img style="max-width:100%" src="./images/jms-5.png" alt="Just My Socks shadowsocks详情" /></a>
 </p>
 <h2 id="user-content-just6"><span id="just_my_socks-6">六、Just My Socks怎么用</span></h2>
 
-有了Shadowsocks/V2ray账号后，接下来怎么用？剩下的只需要下载安装Shadowsocks/V2ray客户端（***注意：Just My Socks不支持SSR，不要使用SSR客户端，请使用下图中的<a rel="nofollow" href="https://justmysocks3.net/members/index.php?rp=/knowledgebase/5/Software-download-links.html">Just My Socks 官网</a>的下载链接下载客户端***），然后将购买的服务器导入客户端即可使用啦。
+有了Shadowsocks/V2ray账号后，接下来怎么用？剩下的只需要下载安装Shadowsocks/V2ray客户端（***注意：Just My Socks不支持SSR，不要使用SSR客户端，请使用下图中的<a rel="nofollow" href="https://justmysocks3.net/members/index.php?aff=26082&language=chinese&rp=/knowledgebase/5/Software-download-links.html">Just My Socks 官网</a>的下载链接下载客户端***），然后将购买的服务器导入客户端即可使用啦。
 
 <b>第1～5条线路介绍</b>
 
