@@ -12,20 +12,19 @@
 * <a href="#user-content-just6"> How to use `Just My Socks` </a> 
 
 
-`Just My Socks` is currently a very hot `Shadowsocks/V2ray` service provider, officially launched by the [BandwagonHost](https://bandwagonhost.com/aff.php?aff=71195), each service provides 5 lines, including the fastest CN2 GIA line. The biggest advantage of `Just My Socks` is to ensure that the IP is not blocked. If the IP is blocked, it will automatically replace the new available IP to the user. For friends who just need to look over YouTube, Ins or Google and Google Scholar, `Just My Socks` is a very suitable choice.
+`Just My Socks` is currently a very hot `Shadowsocks/V2ray` service provider, officially launched by the [BandwagonHost](https://bandwagonhost.com/aff.php?aff=71195), each service provides multiple lines, including Los Angeles, London, and Hong Kong routes. The biggest advantage of `Just My Socks` is to ensure that the IP is not blocked. If the IP is blocked, it will automatically replace the new available IP to the user. For friends who just need to look over YouTube, use ChatGPT, or access Google and Google Scholar, `Just My Socks` is a very suitable choice.
 
 ## <span id = "user-content-just1"> <span id = "just_my_socks"> I. Introduction to `Just My Socks` </span> </span>
 
-`Just My Socks` is a `Shadowsocks/V2ray` proxy service officially launched by <strong>  [BandwagonHost](https://bandwagonhost.com/aff.php?aff=71195) </strong>. It supports Paypal payment , Each user get 5 lines, including <strong> BandwagonHost CN2 GIA lines </strong>, Cost-effective and very stable, more flexible and cost-effective than buying a VPS, and saves toss. 
+`Just My Socks` is a `Shadowsocks/V2ray` proxy service officially launched by <strong>[BandwagonHost](https://bandwagonhost.com/aff.php?aff=71195)</strong>. It supports Alipay and PayPal payments, provides multiple high-quality lines including Los Angeles, London, and Hong Kong routes. It's cost-effective and very stable, more flexible and cost-effective than buying a VPS, and saves time on setup and maintenance.
 
-<strong> Is `Just My Socks` reliable? </strong> Unlike other `Shadowsocks/V2ray` Service, `Just My Socks` is officially launched by [BandwagonHost](https://bandwagonhost.com/aff.php?aff=71195) and has been operating steadily for more than a year (launched in October 2018). It can be said that it is very reliable.
+<strong>Is `Just My Socks` reliable?</strong> Unlike other services, `Just My Socks` is officially launched by [BandwagonHost](https://bandwagonhost.com/aff.php?aff=71195) and has been operating steadily for nearly 5 years (launched in October 2018). It can be said that it is very reliable.
 
-<strong> How about `Just My Socks`? </strong> Each user get 5 lines, including the fastest CN2 GIA line, which is very fast.
+<strong>How about `Just My Socks`?</strong> Each service provides multiple high-quality lines with excellent speeds and stability.
 
-<strong> Who is right for `Just My Socks`? </strong> If you are just looking at YouTube, brushing ins, or Google just to look over the wall, then you Don't need to toss VPS at all, you can build your own ss, `Just My Socks` can easily meet these needs. <strong> `Just My Socks` disadvantages </strong>: Can't watch Netflix.
+<strong>Who is right for `Just My Socks`?</strong> If you just need to access YouTube, ChatGPT, or Google services, then you don't need to set up your own VPS. `Just My Socks` can easily meet these needs.
 
-<strong> Supported protocols: TCP or UDP? </strong>
-`Just My Socks` 100 only supports the TCP protocol, which is sufficient for browsing the web and using most streaming services such as YouTube. All packages starting from `Just My Socks` 500 support TCP and UDP protocols (see note below). Voice protocols (such as WhatsApp and some VOIP implementations) may require the UDP protocol. If your package is `Just My Socks` 100 and you want to use the UDP protocol, then you will need to upgrade to the `Just My Socks` 500 package.
+<strong>Does `Just My Socks` support ChatGPT?</strong> Yes, `Just My Socks` fully supports ChatGPT access and regularly optimizes its service for ChatGPT users. For more details, please visit [this link](https://justmysocks3.net/members/knowledgebase.php?action=displayarticle&id=15&language=chinese).
 
 ## <span id = "user-content-just2"> <span id = "just_my_socks-2"> Second, `Just My Socks` purchase </span> </span>
 
@@ -44,28 +43,44 @@
 </thead>
 <tbody>
 <tr>
-<td>JMS500</td>
-<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=26082&pid=1"> Buy now </a></td>
-<td>2.5 GB</td>
-<td>500 GB / month</td>
-<td>$ 5.88 / month</td>
-<td>Up to 5 devices are online at the same time (currently out of stock)</td>
+<td>LA500</td>
+<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=26082&pid=2">Buy now</a></td>
+<td>2.5 Gbps</td>
+<td>500 GB/month</td>
+<td>$5.88/month</td>
+<td>Up to 5 devices online simultaneously</td>
 </tr>
 <tr>
-<td>JMS1000</td>
-<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=26082&pid=2"> Buy now </a></td>
-<td>5 GB</td>
-<td>1TB / month</td>
-<td>$ 9.88 / month</td>
-<td>Unlimited number of devices</td>
+<td>LA1000</td>
+<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=26082&pid=3">Buy now</a></td>
+<td>5 Gbps</td>
+<td>1TB/month</td>
+<td>$9.88/month</td>
+<td>Unlimited devices</td>
 </tr>
 <tr>
-<td>JMS5000</td>
-<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=26082&pid=3"> Buy now </a></td>
-<td>5 GB</td>
-<td>5TB / month</td>
-<td>$ 48.99 / month</td>
-<td>Unlimited number of devices</td>
+<td>London500</td>
+<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=26082&pid=12">Buy now</a></td>
+<td>2.5 Gbps</td>
+<td>500 GB/month</td>
+<td>$6.80/month</td>
+<td>Up to 5 devices online simultaneously</td>
+</tr>
+<tr>
+<td>London1000</td>
+<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=26082&pid=14">Buy now</a></td>
+<td>5 Gbps</td>
+<td>1TB/month</td>
+<td>$11.29/month</td>
+<td>Unlimited devices</td>
+</tr>
+<tr>
+<td>HK500 (CMI+NTT)</td>
+<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=26082&pid=13">Buy now</a></td>
+<td>2.5 Gbps</td>
+<td>500 GB/month</td>
+<td>$8.99/month</td>
+<td>Up to 5 devices online simultaneously</td>
 </tr>
 </tbody>
 </table>
