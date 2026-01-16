@@ -12,7 +12,7 @@
 * <a href="#user-content-just6"> How to use `Just My Socks` </a> 
 
 
-`Just My Socks` is currently a very hot `Shadowsocks/V2ray` service provider, officially launched by the [BandwagonHost](https://bandwagonhost.com/aff.php?aff=71195), each service provides multiple lines, including Los Angeles, London, and Hong Kong routes. The biggest advantage of `Just My Socks` is to ensure that the IP is not blocked. If the IP is blocked, it will automatically replace the new available IP to the user. For friends who just need to look over YouTube, use ChatGPT, or access Google and Google Scholar, `Just My Socks` is a very suitable choice.
+`Just My Socks` is currently a very hot `Shadowsocks/V2ray` service provider, officially launched by the [BandwagonHost](https://bandwagonhost.com/aff.php?aff=71195), each service provides multiple lines, including Los Angeles, London, and Hong Kong routes. The biggest advantage of `Just My Socks` is to ensure that the IP is not blocked. If the IP is blocked, it will automatically replace the new available IP to the user. For friends who just need to look over YouTube, use ChatGPT, ClaudeCode, Gemini, or access Google and Google Scholar, `Just My Socks` is a very suitable choice.
 
 ## <span id = "user-content-just1"> <span id = "just_my_socks"> I. Introduction to `Just My Socks` </span> </span>
 
@@ -22,9 +22,9 @@
 
 <strong>How about `Just My Socks`?</strong> Each service provides multiple high-quality lines with excellent speeds and stability.
 
-<strong>Who is right for `Just My Socks`?</strong> If you just need to access YouTube, ChatGPT, or Google services, then you don't need to set up your own VPS. `Just My Socks` can easily meet these needs.
+<strong>Who is right for `Just My Socks`?</strong> If you just need to access YouTube, ChatGPT, ClaudeCode, Gemini, or Google services, then you don't need to set up your own VPS. `Just My Socks` can easily meet these needs.
 
-<strong>Does `Just My Socks` support ChatGPT?</strong> Yes, `Just My Socks` fully supports ChatGPT access and regularly optimizes its service for ChatGPT users. For more details, please visit [this link](https://justmysocks3.net/members/knowledgebase.php?action=displayarticle&id=15&language=chinese).
+<strong>Does `Just My Socks` support ChatGPT, ClaudeCode, Gemini?</strong> Yes, `Just My Socks` fully supports ChatGPT, ClaudeCode, Gemini access and regularly optimizes its service for ChatGPT, ClaudeCode, Gemini users. For more details, please visit [this link](https://justmysocks3.net/members/knowledgebase.php?action=displayarticle&id=15&language=chinese).
 
 ## <span id = "user-content-just2"> <span id = "just_my_socks-2"> Second, `Just My Socks` purchase </span> </span>
 

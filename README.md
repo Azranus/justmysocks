@@ -1,11 +1,11 @@
 <head>  
-  <meta name="description" content="探索 Just My Socks 2026代理教程，附带优惠码🎫，轻松科学上网，还能支持 ChatGPT。保持连接，简单方便！">  
-  <meta name="keywords" content="Just My Socks, justmysocks3，justmysocks官网，justmysocks优惠码, justmysocks chatgpt，justmysocks Shadowsocks, justmysocks V2ray, justmysocks代理服务">  
+  <meta name="description" content="探索 Just My Socks 2026代理教程，附带优惠码🎫，轻松科学上网，还能支持 ChatGPT, ClaudeCode, Gemini。保持连接，简单方便！">  
+  <meta name="keywords" content="Just My Socks, justmysocks3，justmysocks官网，justmysocks优惠码, justmysocks ChatGPT, ClaudeCode, Gemini，justmysocks Shadowsocks, justmysocks V2ray, justmysocks代理服务">  
   <link rel="canonical" href="https://github.com/Azranus/justmysocks" />  
 </head>
 <h1>🔥Just My Socks：搬瓦工官方2026代理服务，多条线路，特供优惠码🔥</h1>
 <h2>力荐！Just My Socks - 非常靠谱稳定的shadowsocks/V2ray代理服务！</h2>
-<h2>可以用于ChatGPT访问使用！</h2>
+<h2>可以用于ChatGPT, ClaudeCode, Gemini访问使用！</h2>
 <section>  
   <h2>超多线路可供选择</h2>  
   <article>  
@@ -52,10 +52,10 @@ Just My Socks是<strong>搬瓦工官方</strong>出品的Shadowsocks/V2ray代理
 <strong>Just My Socks怎么样？</strong>每个ss账号有5个线路，包括最快的搬瓦工CN2 GIA线路，速度很快。
 </p>
 <p class="keepp">
-<strong>哪些人适合用Just My Socks？</strong>如果你只是为了翻墙看看YouTube、刷刷ins，使用ChatGPT或者谷歌，那么你完全不需要折腾VPS，自建ss，Just My Socks可以非常方便的达到这些需求。
+<strong>哪些人适合用Just My Socks？</strong>如果你只是为了翻墙看看YouTube、刷刷ins，使用ChatGPT, ClaudeCode, Gemini或者谷歌，那么你完全不需要折腾VPS，自建ss，Just My Socks可以非常方便的达到这些需求。
 </p>
 <p class="keepp">
-<strong>Just My Socks 是否支持ChatGPT访问？</strong>目前JMS已经可以支持ChatGPT访问了，另外官方也经常对ChatGPT访问做优化。<a href="https://justmysocks3.net/members/knowledgebase.php?action=displayarticle&id=15&language=chinese">详情访问</a>
+<strong>Just My Socks 是否支持ChatGPT, ClaudeCode, Gemini访问？</strong>目前JMS已经可以支持ChatGPT, ClaudeCode, Gemini访问了，另外官方也经常对ChatGPT, ClaudeCode, Gemini访问做优化。<a href="https://justmysocks3.net/members/knowledgebase.php?action=displayarticle&id=15&language=chinese">详情访问</a>
 </p>
 <h2 id="user-content-just2"><span id="just_my_socks-2">二、Just My Socks购买</span></h2>
 <p class="keepp">目前，Just My Socks提供以下方案：</p>
