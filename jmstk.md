@@ -19,7 +19,7 @@
 
 ## 申请退款步骤
 
-1. 访问 [Just My Socks 官网](https://justmysocks3.net/members/aff.php?aff=26082)
+1. 访问 [Just My Socks 官网](https://justmysocks6.net/members/aff.php?aff=26082)
 2. 在菜单中选择 Services > My Services
 3. 找到状态为 `Active` 的产品
 4. 点击进入产品详情
@@ -28,7 +28,7 @@
 
 退款申请提交后，客服会在工作日内处理您的退款请求。
 
-*注：本退款政策内容来自 Just My Socks 官方的 [Terms of Service](https://justmysocks3.net/members/index.php?rp=/knowledgebase/1/Terms-of-Service.html)*
+*注：本退款政策内容来自 Just My Socks 官方的 [Terms of Service](https://justmysocks6.net/members/index.php?rp=/knowledgebase/1/Terms-of-Service.html)*
 
 </div>
 ```

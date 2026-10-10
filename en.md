@@ -24,7 +24,7 @@
 
 <strong>Who is right for `Just My Socks`?</strong> If you just need to access YouTube, ChatGPT, ClaudeCode, Gemini, or Google services, then you don't need to set up your own VPS. `Just My Socks` can easily meet these needs.
 
-<strong>Does `Just My Socks` support ChatGPT, ClaudeCode, Gemini?</strong> Yes, `Just My Socks` fully supports ChatGPT, ClaudeCode, Gemini access and regularly optimizes its service for ChatGPT, ClaudeCode, Gemini users. For more details, please visit [this link](https://justmysocks3.net/members/knowledgebase.php?action=displayarticle&id=15&language=chinese).
+<strong>Does `Just My Socks` support ChatGPT, ClaudeCode, Gemini?</strong> Yes, `Just My Socks` fully supports ChatGPT, ClaudeCode, Gemini access and regularly optimizes its service for ChatGPT, ClaudeCode, Gemini users. For more details, please visit [this link](https://justmysocks6.net/members/index.php?rp=/knowledgebase/15/ChatGPT-on-JustMySocks-network.html).
 
 ## <span id = "user-content-just2"> <span id = "just_my_socks-2"> Second, `Just My Socks` purchase </span> </span>
 
@@ -44,7 +44,7 @@
 <tbody>
 <tr>
 <td>LA500</td>
-<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=26082&pid=2">Buy now</a></td>
+<td><a rel="nofollow" href="https://justmysocks6.net/members/aff.php?aff=26082&pid=2">Buy now</a></td>
 <td>2.5 Gbps</td>
 <td>500 GB/month</td>
 <td>$5.88/month</td>
@@ -52,7 +52,7 @@
 </tr>
 <tr>
 <td>LA1000</td>
-<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=26082&pid=3">Buy now</a></td>
+<td><a rel="nofollow" href="https://justmysocks6.net/members/aff.php?aff=26082&pid=3">Buy now</a></td>
 <td>5 Gbps</td>
 <td>1TB/month</td>
 <td>$9.88/month</td>
@@ -60,7 +60,7 @@
 </tr>
 <tr>
 <td>London500</td>
-<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=26082&pid=12">Buy now</a></td>
+<td><a rel="nofollow" href="https://justmysocks6.net/members/aff.php?aff=26082&pid=12">Buy now</a></td>
 <td>2.5 Gbps</td>
 <td>500 GB/month</td>
 <td>$6.80/month</td>
@@ -68,7 +68,7 @@
 </tr>
 <tr>
 <td>London1000</td>
-<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=26082&pid=14">Buy now</a></td>
+<td><a rel="nofollow" href="https://justmysocks6.net/members/aff.php?aff=26082&pid=14">Buy now</a></td>
 <td>5 Gbps</td>
 <td>1TB/month</td>
 <td>$11.29/month</td>
@@ -76,7 +76,7 @@
 </tr>
 <tr>
 <td>HK500 (CMI+NTT)</td>
-<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=26082&pid=13">Buy now</a></td>
+<td><a rel="nofollow" href="https://justmysocks6.net/members/aff.php?aff=26082&pid=13">Buy now</a></td>
 <td>2.5 Gbps</td>
 <td>500 GB/month</td>
 <td>$8.99/month</td>
@@ -108,7 +108,7 @@ After paying , your `Just My Socks` service is purchased.
 
 ## <span id = "user-content-just5"> <span id = "just_my_socks-5"> Fifth, `Just My Socks` information view </span> </span>
 
-After completing `Just My Socks` purchase, log in to <a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=26082"> `Just My Socks` official website </a>, select Services-> My Services, and you will see you Just bought the service, click this service to see details:
+After completing `Just My Socks` purchase, log in to <a rel="nofollow" href="https://justmysocks6.net/members/aff.php?aff=26082"> `Just My Socks` official website </a>, select Services-> My Services, and you will see you Just bought the service, click this service to see details:
 <br class="keepp">
 <a href="https://github.com/Azranus/justmysocks/blob/master/images/jms-4.png" target="_blank" rel="noopener noreferrer"> <img style = "max-width: 100% " src ="https://github.com/Azranus/justmysocks/raw/master/images/jms-4.png" alt =" `Just My Socks` My Services "/> </a>
 
@@ -120,7 +120,7 @@ Here you can see the details of `Shadowsocks/V2ray` servers, including encryptio
 
 After I have a `Shadowsocks/V2ray` server, how do I use it next? The rest only needs to download and install the `Shadowsocks/V2ray` client and import the purchased server to use it.
 
-<h3> On the <a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=26082">just_my_socks website</a>, refer to the following figure to download the client corresponding to the operating system </h3>
+<h3> On the <a rel="nofollow" href="https://justmysocks6.net/members/aff.php?aff=26082">just_my_socks website</a>, refer to the following figure to download the client corresponding to the operating system </h3>
 
 <img style = "max-width: 100%" src = "https://github.com/Azranus/justmysocks/raw/master/images/dcen.jpg" alt = "SS client download" />
 
